@@ -1,1 +1,1 @@
-This repo is for hosting the different code I produce during my hackthons
+This repo is for hosting different projects I work on during my hackthons
